@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhelleLa
+- 👋 Hi, I’m @Swayzie
 - 👀 I’m interested in new things
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on coding
